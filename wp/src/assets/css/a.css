@@ -1,0 +1,9 @@
+body{
+  background: #393 ;
+  background: url("../images/play.gif");
+}
+#app{
+  background: url("../images/timg.jpg");
+}
+
+.pro1{width:100px;}
